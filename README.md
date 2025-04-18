@@ -27,13 +27,17 @@
 
 ---
 
-#### 🏨 [Hotel Management System](private or GitHub link)
+#### 🏆 [ISTE Hackathon Platform – Runner-Up Project](https://github.com/KarthikBandi75/Hackathon)
 
-> Admin-User system for dynamic hotel booking
+> Complete event management platform for hackathons with real-time collaboration.
 
-- 🏢 Admin adds hotels, manages slots, controls pricing
-- 💹 Smart Pricing Logic: **More bookings = higher price**, powered by Spanning Tree algorithm
-- 🧠 Data-driven experience for users
+- 🧑‍💻 Participants: OTP-based signup, create/join teams, real-time chat via Socket.IO, and project submissions
+- 🧑‍🏫 Organizers: Manage events, approve/reject submissions, monitor live leaderboards
+- 🧑‍⚖️ Judges: Review submitted projects and provide feedback/scores
+
+- 📈 Live scoring, dashboard-based analytics, and submission management
+
+✅ Built during ISTE Hackathon — placed **2nd among 50+ teams 200+ participants**
 
 ---
 
