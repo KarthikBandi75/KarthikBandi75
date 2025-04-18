@@ -147,12 +147,13 @@
 
 ### 🌟 Personal Philosophy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Time%20and%20effort%20are%20your%20greatest%20assets.-black?style=for-the-badge&labelColor=000000">
+<p align="center" style="font-size: 16px;">
+  <em>
+    💡 "Time and effort are your greatest assets.<br>
+    Spend them on building, learning, and solving real problems — the future will thank you."
+  </em>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Spend%20them%20on%20building,%20learning,%20and%20solving%20real%20problems%20—%20the%20future%20will%20thank%20you.-blue?style=for-the-badge&labelColor=000000">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/—%20Bandi%20Karthik-white?style=for-the-badge&labelColor=000000">
+  — <strong>Bandi Karthik</strong>
 </p>
