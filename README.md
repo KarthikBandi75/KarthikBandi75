@@ -17,7 +17,7 @@
 ### 🌟 Highlight Projects
 
 #### 🔬 MediConnect – Healthcare Appointment Platform  
-[GitHub Repo](https://github.com/KarthikBandi75/MediConnect) • [👥 User App](https://medi-connect-frontend-three.vercel.app/) • [🔐 Admin Dashboard](https://medi-connect-admin.vercel.app/)
+📌 [GitHub Repo](https://github.com/KarthikBandi75/MediConnect) • [👥 User App](https://medi-connect-frontend-three.vercel.app/) • [🔐 Admin Dashboard](https://medi-connect-admin.vercel.app/)
 
 > A complete healthcare platform enabling appointment scheduling and doctor-patient management.
 
@@ -29,7 +29,7 @@
 ---
 
 #### 🏆 ISTE Hackathon Platform – 🥈 Runner-Up  
-[GitHub Repo](https://github.com/KarthikBandi75/Hackathon)
+📌 [GitHub Repo](https://github.com/KarthikBandi75/Hackathon)
 
 > A robust, scalable platform for organizing and participating in virtual hackathons.
 
@@ -43,7 +43,7 @@
 ---
 
 #### 🧑‍🏫 LMS + Coding Platform *(Hackathon Project)*  
-📌 GitHub link coming soon...
+📌 [GitHub Repo](https://github.com/KarthikBandi75/campus-bridge)
 
 > A smart LMS platform that combines course delivery, coding practice, and AI tools.
 
