@@ -62,16 +62,21 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,java,git,docker,vercel" />
 </p>
 
----
-
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikBandi75&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBandi75&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikBandi75&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBandi75&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikBandi75&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KarthikBandi75&theme=tokyonight&area=true&hide_border=true" />
+</p>
+
 
 ### 🏆 Achievements
 
