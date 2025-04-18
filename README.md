@@ -23,7 +23,7 @@
 - ☁️ Cloudinary for image uploads
 - 🤖 Gemini AI Chatbot → Only responds to health-related queries using smart filtering
 
-[Try User App](https://medi-connect-frontend-nine.vercel.app/) | [Admin Dashboard](https://medi-connect-admin.vercel.app/)
+[Try User App](https://medi-connect-frontend-three.vercel.app/) | [Admin Dashboard](https://medi-connect-admin.vercel.app/)
 
 ---
 
