@@ -55,18 +55,35 @@
   - Use **AI Code Error Chatbot** + **AI Resume Generator**
   - OTP-based login, profile management, and job application tracking
 
----
+### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack
+Here’s what I love working with and what powers my projects:
 
-**Languages:** JavaScript, Java, TypeScript, Python, C  
-**Frontend:** React.js, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**Dev Tools:** Git, GitHub, Docker, Postman, VS Code, Linux  
-**Other:** Web Sockets, Cloudinary, Razorpay, JWT, AWS
+#### 💻 Languages
+- **JavaScript** (ES6+), **TypeScript**, **Java**, **Python**, **C**
 
----
+#### 🌐 Frontend
+- **React.js**, **Tailwind CSS**, **Bootstrap**, **HTML5**, **CSS3**
+
+#### 🔧 Backend
+- **Node.js**, **Express.js**, **REST APIs**, **JWT Auth**
+
+#### 🗃️ Databases
+- **MongoDB**, **MySQL**  
+- ODM/ORM: **Mongoose**, **Sequelize**
+
+#### ☁️ Cloud & DevOps
+- **AWS** (EC2, S3, Route 53), **Cloudinary**, **Docker**, **Vercel**, **Railway**
+
+#### 🧪 Tools & Platforms
+- **Git**, **GitHub**, **Postman**, **VS Code**, **Linux (Ubuntu)**, **Netlify**
+
+#### 🔗 Integrations
+- **Razorpay**, **Socket.IO**, **Nodemailer**, **Axios**, **Zustand**, **Framer Motion**
+
+#### 🧠 AI & Enhancements
+- **Gemini API** (for smart chatbot integration), **Markdown Parsing**, **Dynamic Prompt Filtering**
+
 
 ### 📈 GitHub Activity
 
@@ -78,11 +95,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikBandi75&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KarthikBandi75&theme=tokyonight&area=true&hide_border=true" />
-</p>
-
 ---
 
 ### 🏆 Achievements
