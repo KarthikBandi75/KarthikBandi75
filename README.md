@@ -29,7 +29,7 @@
 ---
 
 #### 🏆 ISTE Hackathon Platform – 🥈 Runner-Up  
-📌 [GitHub Repo](https://github.com/KarthikBandi75/Hackathon)
+📌 [GitHub Repo] https://github.com/KarthikBandi75/HackathonManagement-Platform
 
 > A robust, scalable platform for organizing and participating in virtual hackathons.
 
