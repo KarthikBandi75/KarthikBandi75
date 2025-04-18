@@ -5,62 +5,68 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year CSE Student @ Mohan Babu University (CGPA: 9.58)
-- 💻 MERN Stack | Java | JavaScript | MongoDB | AWS
-- 🧠 Solved **300+ DSA problems** – [LeetCode](https://leetcode.com/u/BandiKarthik9157/) | [GFG](https://www.geeksforgeeks.org/user/bandikarthik75/)
-- 🛠 Constantly exploring: AI Integration, Advanced DSA, System Design
+- 🎓 3rd Year CSE Student @ **Mohan Babu University** (CGPA: 9.58)
+- 💻 Full-stack developer proficient in **MERN Stack**, **Java**, **JavaScript**, **MongoDB**, and **AWS**
+- 🧠 Solved over **300+ DSA problems**  
+  [LeetCode](https://leetcode.com/u/BandiKarthik9157/) • [GFG](https://www.geeksforgeeks.org/user/bandikarthik75/)
+- 🤝 I’m always enthusiastic about collaborating with passionate developers to build meaningful, real-world tech solutions
+- 🚀 Currently exploring **AI Integrations**, **System Design**, and **Advanced DSA**
 
 ---
 
 ### 🌟 Highlight Projects
 
-#### 🔬 [MediConnect – Healthcare Appointment Platform](https://github.com/KarthikBandi75/MediConnect)
+#### 🔬 MediConnect – Healthcare Appointment Platform  
+[GitHub Repo](https://github.com/KarthikBandi75/MediConnect) • [👥 User App](https://medi-connect-frontend-three.vercel.app/) • [🔐 Admin Dashboard](https://medi-connect-admin.vercel.app/)
 
-> Real-time MERN stack app for patients, doctors, and admins.
+> A complete healthcare platform enabling appointment scheduling and doctor-patient management.
 
-- ✨ OTP-based login, role-based dashboards
-- 💳 Razorpay for payments
-- ☁️ Cloudinary for image uploads
-- 🤖 Gemini AI Chatbot → Only responds to health-related queries using smart filtering
-
-[Try User App](https://medi-connect-frontend-three.vercel.app/) | [Admin Dashboard](https://medi-connect-admin.vercel.app/)
-
----
-
-#### 🏆 [ISTE Hackathon Platform – Runner-Up Project](https://github.com/KarthikBandi75/Hackathon)
-
-> Complete event management platform for hackathons with real-time collaboration.
-
-- 🧑‍💻 Participants: OTP-based signup, create/join teams, real-time chat via Socket.IO, and project submissions
-- 🧑‍🏫 Organizers: Manage events, approve/reject submissions, monitor live leaderboards
-- 🧑‍⚖️ Judges: Review submitted projects and provide feedback/scores
-
-- 📈 Live scoring, dashboard-based analytics, and submission management
-
-✅ Built during ISTE Hackathon — placed **2nd among 50+ teams 200+ participants**
+- ✅ OTP-based login & role-based dashboards
+- 💳 Razorpay integration for secure payments
+- 📦 Cloudinary for medical document & image uploads
+- 🤖 **AI Chatbot (Gemini API)** – Responds only to health-related queries using backend `HealthMessage` filtering
 
 ---
 
-#### 🧑‍🏫 [LMS + Coding Platform (Hackathon Project)](private or GitHub link)
+#### 🏆 ISTE Hackathon Platform – 🥈 Runner-Up  
+[GitHub Repo](https://github.com/KarthikBandi75/Hackathon)
 
-> A full LMS with live coding & AI support
+> A robust, scalable platform for organizing and participating in virtual hackathons.
 
-- 🧩 Admin creates faculty accounts, courses, internships
-- 👩‍🏫 Faculty uploads lectures, assignments, and coding challenges
-- 👨‍🎓 Students get:
-  - 👨‍💻 Online Compiler
-  - 🤖 AI Chatbot for error help & debugging
-  - 📄 AI Resume Builder
-  - 🔐 OTP Login
-  - 🎥 Video-based course access
+- 👥 Participants: OTP-auth, team creation, real-time chat (Socket.IO), and submission flow
+- 🛠 Organizers: Event setup, submission control, leaderboard management
+- 👨‍⚖️ Judges: Review entries, give scores, add feedback
+- 📊 Live dashboard for transparent scoring
+
+🏅 *Secured 2nd place among 50+ teams and 200+ participants at ISTE Hackathon (Feb 2025)*
+
+---
+
+#### 🧑‍🏫 LMS + Coding Platform *(Hackathon Project)*  
+📌 GitHub link coming soon...
+
+> A smart LMS platform that combines course delivery, coding practice, and AI tools.
+
+- 👑 Admin: Add faculty, assign courses, internships, job roles
+- 👨‍🏫 Faculty: Upload lectures, assignments, code problems
+- 👨‍🎓 Students:
+  - View enrolled content
+  - Practice on **online code compiler**
+  - Use **AI Code Error Chatbot** + **AI Resume Generator**
+  - OTP-based login, profile management, and job application tracking
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,java,git,docker,vercel" />
-</p>
+**Languages:** JavaScript, Java, TypeScript, Python, C  
+**Frontend:** React.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Dev Tools:** Git, GitHub, Docker, Postman, VS Code, Linux  
+**Other:** Web Sockets, Cloudinary, Razorpay, JWT, AWS
+
+---
 
 ### 📈 GitHub Activity
 
@@ -77,14 +83,16 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KarthikBandi75&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
+---
 
 ### 🏆 Achievements
 
-- 🥈 **Runner-Up @ ISTE Hackathon (Feb 2025)** – Built a full-featured hackathon platform
-- 📜 Certified in:
-  - Java DSA (Apna College)
-  - MERN Stack (Apna College)
-  - Cybersecurity (Cisco)
+- 🥈 **Runner-Up @ ISTE Hackathon (Feb 2025)**  
+  Built a full-featured Hackathon platform using the MERN Stack
+- 📜 Certifications:
+  - Java DSA – Apna College
+  - MERN Stack Web Development – Apna College
+  - Cybersecurity Essentials – Cisco
 
 ---
 
@@ -94,10 +102,11 @@
   <a href="mailto:bandikarthik75@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/karthikbandi9157"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KarthikBandi75"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/BandiKarthik9157"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/bandikarthik75"><img src="https://img.shields.io/badge/GFG-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
 
-> “Build things that matter. Fix things that break. Learn endlessly.” 💡  
+> 💡 “Where you invest your time and effort defines your future — so invest smartly, build boldly, and never stop learning.”  
 > — *Bandi Karthik*
-
