@@ -24,7 +24,7 @@
 - ✅ OTP-based login & role-based dashboards
 - 💳 Razorpay integration for secure payments
 - 📦 Cloudinary for medical document & image uploads
-- 🤖 **AI Chatbot (Gemini API)** – Responds only to health-related queries using backend `HealthMessage` filtering
+- 🤖 **AI Chatbot** – Integrated a smart **AI chatbot** to assist users with accurate, health-focused responses.
 
 ---
 
