@@ -57,58 +57,57 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+#### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=00599C)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+#### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+#### 🔧 Backend & APIs  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000?style=for-the-badge&logo=api&logoColor=white)
 
-**Databases & ORM:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat)
+#### 🗃️ Databases & ORM  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?style=for-the-badge&logo=mongoose&logoColor=880000)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?style=for-the-badge&logo=sequelize&logoColor=52B0E7)
 
-**Cloud & Deployment:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+#### ☁️ Cloud & Deployment  
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=F90)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway&logoColor=white)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+#### 🧪 Tools  
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-**Integrations & Libraries:**  
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-E10098?style=flat&logo=framer&logoColor=white)
+#### 🔗 Libraries & Integrations  
+![Razorpay](https://img.shields.io/badge/-Razorpay-000?style=for-the-badge&logo=razorpay&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?style=for-the-badge&logo=socket.io&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-000?style=for-the-badge&logo=axios&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=for-the-badge&logo=zustand&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=E10098)
 
-**AI & Enhancements:**  
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
+#### 🤖 AI & Enhancements  
+![Gemini API](https://img.shields.io/badge/-Gemini_API-000?style=for-the-badge&logo=google&logoColor=4285F4)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ### 📈 GitHub Activity
