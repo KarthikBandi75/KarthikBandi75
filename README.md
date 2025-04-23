@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🎓 3rd Year CSE Student @ **Mohan Babu University** (CGPA: 9.58)
 - 💻 Full-stack developer proficient in **MERN Stack**, **Java**, **JavaScript**, **MongoDB**, and **AWS**
