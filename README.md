@@ -43,7 +43,7 @@
 ---
 
 #### 🧑‍🏫 LMS + Coding Platform *(Hackathon Project)*  
-📌 [GitHub Repo](https://github.com/KarthikBandi75/campus-bridge)
+📌 [GitHub Repo](https://github.com/KarthikBandi75/campus-bridge) • [👥 User App](https://campusbridge-student.vercel.app/) • [🔐 Admin Dashboard](https://xhorizon-frontend.vercel.app/login)
 
 > A smart LMS platform that combines course delivery, coding practice, and AI tools.
 
