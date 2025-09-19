@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me 
 
-- 🎓 3rd Year CSE Student @ **Mohan Babu University** (CGPA: 9.58)
+- 🎓 4th Year CSE Student @ **Mohan Babu University** (CGPA: 9.46)
 - 💻 Full-stack developer proficient in **MERN Stack**, **Java**, **JavaScript**, **MongoDB**, and **AWS**
 - 🧠 Solved over **300+ DSA problems**  
   [LeetCode](https://leetcode.com/u/BandiKarthik9157/) • [GFG](https://www.geeksforgeeks.org/user/bandikarthik75/)
